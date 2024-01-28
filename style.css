@@ -1,0 +1,21 @@
+body{
+    text-align: center;   
+   background-color: #e6d7ff;
+    font-family:cursive;
+   }
+
+b{
+    color: #9966cc;
+}
+
+label{
+    color:#271240;
+}
+
+#camera {
+    border-style:dashed;
+    border-color: white;
+}
+
+
+
